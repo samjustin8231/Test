@@ -1,5 +1,0 @@
-aaa
-int a = 10;
-bbb
-add cc
-ddddc
